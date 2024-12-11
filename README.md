@@ -1,3 +1,3 @@
 # Exos-Pandas
 
-Ce repo contient une série d'exercices utilisant la librairie pandas pour la manipulation de dataframes
+Ce repo propose une collection d'exercices pratiques pour maîtriser la manipulation de DataFrames avec la bibliothèque Pandas.
